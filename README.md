@@ -1,7 +1,7 @@
 # HR-Analytical-Dashboard
 
 **Steps Involved**
-- Data Collection: Acquired HR data data from relevant datasets on Kaggle.
+Data Collection: Acquired HR data data from relevant datasets on Kaggle.
 
 Data Cleaning and Preparation: Cleaned the data to handle missing values and inconsistencies. 
 
@@ -23,6 +23,9 @@ Data Storytelling: Organized the report in a logical sequence, guiding users thr
 
 **Key Insights**
 -Analyzed attrition rates and gained valuable insights from employee feedback.
+
 -Led a project to uncover critical sales trends and identify top-performing models.
+
 -Pinpointed areas for improvement to enhance decision-making processes.
+
 -Contributed to informed decision-making, particularly in inventory management.
