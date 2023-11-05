@@ -21,7 +21,7 @@ Page Layout and Navigation: Created separate pages for different teams or aspect
 
 Data Storytelling: Organized the report in a logical sequence, guiding users through insights. Added buttons to provide context.
 
-**Key Insights**
+# Key Insights
 
 -Analyzed attrition rates and gained valuable insights from employee feedback.
 
