@@ -22,10 +22,11 @@ Page Layout and Navigation: Created separate pages for different teams or aspect
 Data Storytelling: Organized the report in a logical sequence, guiding users through insights. Added buttons to provide context.
 
 **Key Insights**
--Analyzed attrition rates and gained valuable insights from employee feedback.
+
+**-Analyzed attrition rates and gained valuable insights from employee feedback.
 
 -Led a project to uncover critical sales trends and identify top-performing models.
 
 -Pinpointed areas for improvement to enhance decision-making processes.
 
--Contributed to informed decision-making, particularly in inventory management.
+-Contributed to informed decision-making, particularly in inventory management.**
